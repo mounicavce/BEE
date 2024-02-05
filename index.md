@@ -17,15 +17,14 @@ layout: course-single
 
 After the completion of the course, the student will be able to:
 
-A7209.1. Apply network reduction techniques and knowledge of alternating quantities to calculate current, Voltage and Power for complex circuits..
+A8204.1. Apply network reduction techniques and knowledge of alternating quantities to calculate current, Voltage and Power for complex circuits..
 
-A7209.2. Analyze the electrical circuits using Nodal Analysis, Mesh Analysis and Network Theorems.
+A8204.2. Analyze the electrical circuits using Nodal Analysis, Mesh Analysis and Network Theorems.
 
-A7209.3. Test and analyze the characteristics of DC machines.
+A8204.3.Analyze the characteristics of DC machines, AC Machines and 1-Phase Transformers.
 
-A7209.4. Analyze the operation and characteristics of electronic devices.
+A8204.4. Test the performance of DC Machines, 1-Phase Transformers and AC Machines.
 
-A7209.5. Apply theorems of Boolean algebra to simplify a digital circuit. 
 
 # <a name="syllabus">Syllabus</a>
 
