@@ -43,15 +43,18 @@ A8204.4. Test the performance of DC Machines, 1-Phase Transformers and AC Machin
 
 # <a name="textbooks">Text Books</a>
 
-1. T. K. Nagasarkar, M. S. Suhkija, Basic Electrical Engineering, 2nd Edition, Oxford University Press, 2007
+1. William Hart Hayt, Jack Ellsworth Kemmerly, Steven M. Durbin(2007), Engineering
+Circuit Analysis, 7th Edition, McGraw-Hill Higher Education, New Delhi, India.
+2. B.L. Theraja, A.K. Theraja, A text book of Electrical Technology,(Vol 1&2), S. Chand
+Publishers, New Delhi.
 
 
 ## <a name="references">Reference Books</a>
 
-1. A. E. Fitzgerald, C. Kingsley, S. Umans, Electric Machinery, 5th edition, TMH, New Delhi, 2002
-2. B. L. Theraja, A. K. Theraja , A text book of Electrical Technology, 2nd edition, S. Chand Publishers, New Delhi, 2002
-3. S. Salivahanan, N Suresh Kumar, A. Vallavaraj , Electronic Devices and Circuits, Tata McGraw Hill, India, 2007
-4. J. Millman, C. Halkias, and Satyabratha Jit , Electronic Devices and Circuits, 3rd Edition, Tata McGraw Hill, New Delhi, 2011
+1. D.P. Kothari and I.J. Nagrath, Basic Electrical Engineering, 3rd Edition, Tata Mc-Graw
+Hill, 2010.
+2. D.C. Kulshreshtha, Basic Electrical Engineering, Mc Graw Hill, 2009
+3. L.S. Bobrow, Fundamentals of Electrical Engineering, Oxford University Press, 2011.
 
 <hr>
 
