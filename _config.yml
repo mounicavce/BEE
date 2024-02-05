@@ -21,12 +21,12 @@
 #  algorithms and data structures (dictionaries, arrays, linked lists).
 #  Student learn these concepts through studying the Python programming
 #  language.  
-baseurl: "/a7209" # the subpath of your site, e.g. /blog
+baseurl: "/BEE" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-number: A7209
+number: A8204
 title: Basic Electrical and Electronics Engineering
-semester: II-I (2022-2023)
+semester: I-I (2023-2024)
 
 navigation:
   - title: Overview
@@ -57,16 +57,16 @@ navigation:
     url: '#commitments'
 
 instructors:
-  - id: srv
-    name: Dr. S. Ravivarman
-    email: ravivarman@vardhaman.org
-    web: http://wwww.sravivarman.com
-    phone: +91 99942 77431
+  - id: PM
+    name: Dr. Patil Mounica
+    email: mounica.p@vardhaman.org
+    web: 
+    phone: +91 7702691053
 
 offerings:
   - name: LECTURE
-    loc: 5103
-    instructor: srv 
+    loc: 1111
+    instructor: PM 
 
 # Build settings
 markdown: kramdown
